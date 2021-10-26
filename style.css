@@ -107,10 +107,18 @@ body{
     position: relative;
     aspect-ratio: 2000 / 1412;
 }
+#InstrumentsGen{
+    width: 100%;
+    position: relative;
+    aspect-ratio: 1916 / 1412;
+}
 #jungleImg{
     position: absolute;
 }
 #roadImg{
+    position: absolute;
+}
+#IntrumentsGenImg{
     position: absolute;
 }
 area{
