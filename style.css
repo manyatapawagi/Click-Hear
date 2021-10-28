@@ -37,9 +37,10 @@ body{
 #bar{
     background-color: white;
     width: calc(100% - 10px);
-    box-shadow: -1px 3px 16px 1px black;
+    /* box-shadow: -1px 3px 16px 1px black; */
     height: auto;
-    position: fixed;
+    /* position: fixed; */
+    border-bottom: 1px solid rgba(48, 48, 48, 0.308);
     color: black;
     font-family: sans-serif;
     text-transform: uppercase;
